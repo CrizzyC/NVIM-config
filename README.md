@@ -1,2 +1,1 @@
-# NVIM-config
-# THIS DA BEST CONFIG FOR NVIM BETTER THAN VSCODE LOL
+<h1>Look at my NVIM config is so gooooood!</h1>
